@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Diego Mota</h1>
 <h3 align="center">Migrando na área de Análise de dados, Python e Banco de dados entra outros.</h3>
 
-- 🔭 Atualmente estou como MIS [Importados DLL](https://github.com/DiegoMota-121/importador-DLL.git)
+- 🔭 Atualmente estou trabalhando no [Importados DLL](https://github.com/DiegoMota-121/importador-DLL.git)
 
 - 🌱 Atualmente estou aprendendo **Python, Migração de dados**
 
