@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no [Importados DLL](https://github.com/DiegoMota-121/importador-DLL.git)
 
-- 🌱 Atualmente estou aprendendo **Python, Migração de dados**
+- 🌱 Atualmente estou aprendendo **Python, mineração de dados**
 
 - 📝 Vamos aprender juntos [https://www.linkedin.com/in/diego-mota-04614b180/](https://www.linkedin.com/in/diego-mota-04614b180/)
 
