@@ -1,17 +1,11 @@
 <h1 align="center">Oi 👋, eu sou Diego Mota</h1>
-<h3 align="center">Migrando na área de Análise de dados, Python e Banco de dados entra outros.</h3>
+<h3 align="center">Bem-Vindos (a).</h3>
 
-- 🔭 Atualmente estou trabalhando no [Importados DLL](https://github.com/DiegoMota-121/importador-DLL.git)
+- 📝 Contato: [Whatsapp](https://wa.me/+5511970892236)
 
-- 🌱 Atualmente estou aprendendo **Python, mineração de dados**
+- 📫 Caixa de e-mail: **du_diegom@hotmail.com**
 
-- 📝 Vamos aprender juntos [https://www.linkedin.com/in/diego-mota-04614b180/](https://www.linkedin.com/in/diego-mota-04614b180/)
-
-- 💬 Me pergunte sobre **SQL server, Excel, Dashboard**
-
-- 📫 Você me encontra **du_diegom@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/diego-mota-04614b180/](https://www.linkedin.com/in/diego-mota-04614b180/)
+- 📄 Linkndin [https://www.linkedin.com/in/diego-mota-04614b180/](https://www.linkedin.com/in/diego-mota-04614b180/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
